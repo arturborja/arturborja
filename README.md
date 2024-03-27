@@ -5,6 +5,8 @@ Estou no 5° periodo de Ciencias Economicas.
 
 📚Git para projetos pessoais com o foco em Analise de Dados | Sempre aprendendo e comitando algumas coisinhas por aqui
 
+https://arturborja.com.br/
+
 HTML | SQL | PHP | CSS | Python
 
 
@@ -19,6 +21,8 @@ HTML | SQL | PHP | CSS | Python
           <img alingn="center" alt="ArturSQL" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
           <img alingn="center" alt="ArturSQL" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
           <img alingn="center" alt="ArturSQL" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" />
+          <img alingn="center" alt="ArturSQL" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" />
+          
 </div>        
           
           
