@@ -7,7 +7,7 @@ Estou no 5° periodo de Ciencias Economicas.
 
 https://arturborja.com.br/
 
-HTML | SQL | PHP | CSS | Python
+SQL | PHP | CSS | Python
 
 
 
